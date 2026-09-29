@@ -1,4 +1,4 @@
-Academic Task and Project Management Syste
+Academic Task and Project Management System
 
 مشروع نظام إدارة المهام والمشاريع الأكاديمية - مقرر الدبلوم.
 
