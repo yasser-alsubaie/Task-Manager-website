@@ -11,7 +11,9 @@ Academic Task and Project Management System
 * `ERD_Diagram.png`: مخطط العلاقات للكيانات (ERD Diagram).
 *  `project.sql`: ملف قاعدة البيانات الأساسي (MySQL).
 * `Use Case diagram.png`: مخطط حالات الاستخدام  (Use Case diagram).
-*  
+*  `Gantt_Chart.xlsx` and `Gantt_Chart.xlsx.pdf` : مخطط جانت (Gantt Chart).
+
+  
 
  نبذة عن المشروع:
 هذا النظام مخصص لإدارة المشاريع والمهام الأكاديمية للمستخدمين، بحيث يتيح إنشاء المشاريع وتتبع مهامها وحالتها بكل سهولة.
