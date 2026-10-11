@@ -12,6 +12,7 @@ Academic Task and Project Management System
 *  `project.sql`: ملف قاعدة البيانات الأساسي (MySQL).
 * `Use Case diagram.png`: مخطط حالات الاستخدام  (Use Case diagram).
 *  `Gantt_Chart.xlsx ` and `Gantt_Chart.xlsx.pdf ` : مخطط جانت (Gantt Chart).
+*  `Activity Diagram.draweio.png ` and ` Context Diagram.draweio.png` : مخطط السياق (Context Diagram) و  (Activity Diagram) مخطط الأنشطة
 
   
 
