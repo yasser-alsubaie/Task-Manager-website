@@ -27,3 +27,8 @@ CREATE TABLE tasks(
     project_id INT,
     FOREIGN KEY (project_id) REFERENCES projects(project_id)
 );
+
+
+#a change has been made after website got worked on php,
+#i made sure to make the password bigger for the hashing
+ALTER TABLE users MODIFY password VARCHAR(255) NOT NULL;
